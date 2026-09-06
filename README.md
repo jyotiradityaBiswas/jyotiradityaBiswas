@@ -2,30 +2,31 @@
 I am a 13 year old student who's enthusiastic about programming, game development, CAD, mechanical engineering and robotics.
 
 ## Some things I've learnt and confident about:
-![Python](Python-Dark.svg) ![Lua](Lua-Dark.svg) ![Roblox Studio](RobloxStudio.svg) ![HTML](HTML.svg) ![CSS](CSS.svg) ![PostgreSQL](PostgreSQL-Dark.svg) ![SQLite](SQLite.svg)
+<p align="left">
+  <img src="Python-Dark.svg" alt="Python" width="50" height="50" />&nbsp;&nbsp;
+  <img src="Lua-Dark.svg" alt="Lua" width="50" height="50" />&nbsp;&nbsp;
+  <img src="RobloxStudio.svg" alt="Roblox Studio (Luau)" width="50" height="50" />&nbsp;&nbsp;
+  <img src="HTML.svg" alt="HTML" width="50" height="50" />&nbsp;&nbsp;
+  <img src="CSS.svg" alt="CSS" width="50" height="50" />&nbsp;&nbsp;
+  <img src="PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" />&nbsp;&nbsp;
+  <img src="SQLite.svg" alt="SQLite" width="50" height="50" />
+</p>
 
 ## Some things I've been learning lately:
-![C](C.svg) ![C++](CPP.svg) ![Dart](Dart-Dark.svg) ![Flutter](Flutter-Dark.svg) ![JavaScript](JavaScript.svg) ![Linux](Linux-Dark.svg) 
+<p align="left">
+  <img src="C.svg" alt="C" width="50" height="50" />&nbsp;&nbsp;
+  <img src="CPP.svg" alt="C++" width="50" height="50" />&nbsp;&nbsp;
+  <img src="Dart-Dark.svg" alt="Dart" width="50" height="50" />&nbsp;&nbsp;
+  <img src="Flutter-Dark.svg" alt="Flutter" width="50" height="50" />&nbsp;&nbsp;
+  <img src="JavaScript.svg" alt="JavaScript" width="50" height="50" />&nbsp;&nbsp;
+  <img src="Linux-Dark.svg" alt="Linux" width="50" height="50" />
+</p>
 
 ## Fun Fact:
-![Lua](Lua-Dark.svg)<br>
-Lua is my favorite language, because of its simplicity and its uniqueness(it starts indexing from 1)!
+<p align="left">
+  <img src="Lua-Dark.svg" alt="Lua" width="50" height="50" /> &nbsp; Lua is my favorite language, because of its simplicity and its uniqueness (it starts indexing from 1)!
+</p>
 
 ## Currently working on:
 - A real flying ornithopter
 - Some other small websites
-
-<!--
-**jyotiradityaBiswas/jyotiradityaBiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
