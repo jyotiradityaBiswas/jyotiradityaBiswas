@@ -23,9 +23,12 @@ I am a 13 year old student who's enthusiastic about programming, game developmen
 </p>
 
 ## Fun Fact:
-<p align="left">
-  <img src="Lua-Dark.svg" alt="Lua" width="50" height="50" /> &nbsp; Lua is my favorite language, because of its simplicity and its uniqueness (it starts indexing from 1)!
-</p>
+<table>
+  <tr>
+    <td><img src="Lua-Dark.svg" alt="Lua" width="50" height="50" /></td>
+    <td>Lua is my favorite language, because of its simplicity and its uniqueness (it starts indexing from 1)!</td>
+  </tr>
+</table>
 
 ## Currently working on:
 - A real flying ornithopter
